@@ -12,7 +12,7 @@ $apt install git
    
 $apt install python
 
-===================================
+==================================
 # cloneing & install
 $git clone https://github.com/jailbreakandroot/jailbreakandroot-framework
    
@@ -22,7 +22,7 @@ $python install.py
    
 $python2 jrf.py
 
-=================================
+==================================
 
 code by mehdi652 & @mohamadg80
 https://jailbreakandroot.tk
