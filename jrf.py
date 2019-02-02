@@ -1,7 +1,7 @@
 #mehdi652&mohamadg80
 #jailbreakandroot-framework
 #https://jailbreakandroot.tk
-#v1
+#v 1.1
 import os
 import urllib
 ip = urllib.urlopen("http://ip.42.pl/raw").read()
