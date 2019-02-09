@@ -1,6 +1,7 @@
 <img src="https://jailbreakandroot.tk/images/imgf.jpg"></img>
 # jailbreakandroot-framework
-
+<a href="https://t.me/jailbreakandroot"><button>telegram channel</button></a>
+<a href="https://jailbreakandroot.tk"><button>website</button></a>
 # Installation
 
 
